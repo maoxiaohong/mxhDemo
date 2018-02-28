@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'mxhDemo'
-s.version      = '1.3'
+s.version      = '1.2'
 s.summary      = 'scrollerview滑动'
 s.homepage     = 'https://github.com/maoxiaohong/mxhDemo'
 s.license      = 'MIT'
