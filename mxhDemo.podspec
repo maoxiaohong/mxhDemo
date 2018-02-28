@@ -10,3 +10,4 @@ s.source       = {:git => 'https://github.com/maoxiaohong/mxhDemo.git', :tag => 
 s.source_files = 'mxhDemo/**/*'
 s.requires_arc = true
 end
+
